@@ -1,0 +1,10 @@
+.wrapData {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  gap: 1rem;
+}
